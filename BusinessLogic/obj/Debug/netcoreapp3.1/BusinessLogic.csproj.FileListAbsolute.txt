@@ -1,0 +1,15 @@
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

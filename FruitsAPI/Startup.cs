@@ -45,8 +45,10 @@ namespace FruitsAPI
             });
 
             services.AddScoped<IFruitRepository, FruitRepository>();
+            services.AddScoped<IFruitTypeRepository, FruitTypeRepository>();
 
             services.AddScoped<IBLFruit, BLFruit>();
+            services.AddScoped<IBLFruitType, BLFruitType>();
 
         }
 

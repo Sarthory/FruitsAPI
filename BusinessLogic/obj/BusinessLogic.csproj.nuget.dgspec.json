@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {}
+    "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Sarthory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sarthory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -98,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Sarthory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

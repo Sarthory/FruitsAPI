@@ -14,6 +14,6 @@ namespace BusinessLogic.Contract
 
         Task<FruitTypeDTO> FindById(long id);
 
-        Task<IEnumerable<FruitTypeDTO>> GetAll();
+        Task<IEnumerable<FruitTypeDTO>> FindAll();
     }
 }

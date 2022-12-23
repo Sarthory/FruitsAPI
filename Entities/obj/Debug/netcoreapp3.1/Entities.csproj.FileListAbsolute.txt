@@ -8,3 +8,13 @@ C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\Entities\obj\Debug\netcoreap
 C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\Sarthory\Documents\DEV\FruitsAPI\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sarthory\Desktop\FruitsAPI\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

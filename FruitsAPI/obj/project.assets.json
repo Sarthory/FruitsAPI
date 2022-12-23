@@ -6513,11 +6513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\FruitsAPI\\FruitsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\FruitsAPI\\FruitsAPI.csproj",
       "projectName": "FruitsAPI",
-      "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\FruitsAPI\\FruitsAPI.csproj",
+      "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\FruitsAPI\\FruitsAPI.csproj",
       "packagesPath": "C:\\Users\\Sarthory\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\FruitsAPI\\obj\\",
+      "outputPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\FruitsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -6538,14 +6538,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Sarthory\\Documents\\DEV\\FruitsAPI\\FruitsAPI\\Entities\\Entities.csproj"
+            "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Sarthory\\Desktop\\FruitsAPI\\Entities\\Entities.csproj"
             }
           }
         }

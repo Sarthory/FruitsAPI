@@ -12,10 +12,12 @@ namespace FruitAPI.Controllers
     public class FruitsController : ControllerBase
     {
         private readonly IBLFruit _bLFruit;
+        private readonly IBLFruitType _bLFruitType;
 
-        public FruitsController(IBLFruit bLFruit)
+        public FruitsController(IBLFruit bLFruit, IBLFruitType bLFruitType)
         {
             _bLFruit = bLFruit;
+            _bLFruitType = bLFruitType;
         }
 
         [HttpGet]
@@ -45,6 +47,7 @@ namespace FruitAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<object>> SaveFruit(FruitDTO fruit)
         {
+            #region Validation
             if (string.IsNullOrWhiteSpace($"{fruit.Type}") || fruit.Type < 1)
             {
                 return BadRequest(new
@@ -83,6 +86,19 @@ namespace FruitAPI.Controllers
                     msg = "Description must have at least 25 characters length.",
                     date = DateTime.Now
                 }); ;
+            }
+            #endregion
+
+            var informedFruitType = await _bLFruitType.FindById(fruit.Type);
+
+            if (informedFruitType == null)
+            {
+                return NotFound(new
+                {
+                    status = 404,
+                    msg = "Informed fruit type not found",
+                    date = DateTime.Now,
+                });
             }
 
             var newFruit = await _bLFruit.Save(fruit);
